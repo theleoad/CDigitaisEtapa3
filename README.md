@@ -1,5 +1,5 @@
 # Circuitos Digitais - Etapa 3
-Repositório para entrega da Etapa 2 do trabalho de Circuitos Digitas - UniEvangélica - Eng de Computação
+Repositório para entrega da Etapa 3 do trabalho de Circuitos Digitas - UniEvangélica - Eng de Computação
 
 Alunos:  
 Leonardo Antonio de Deus  
